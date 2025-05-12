@@ -1,5 +1,7 @@
 # Background Remover
 
+[original source on huggingface](https://huggingface.co/spaces/Xenova/remove-background-web/tree/main)
+
 Este projeto é uma aplicação web simples para remoção de fundo de imagens, utilizando o modelo RMBG V1.4 da BRIA AI e a biblioteca Transformers.js.
 
 ## Estrutura do Projeto
